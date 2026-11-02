@@ -5,5 +5,7 @@ int main()
     int a, b;
     cout << "§£§Ó§Ö§Õ§Ú§ä§Ö §Õ§Ó§Ñ §è§Ö§İ§í§ç §é§Ú§ã§İ§Ñ: ";
     cin >> a >> b;
+    int sum = a + b;
+    cout << "§³§å§Ş§Ş§Ñ §é§Ú§ã§Ö§İ = " << sum << endl;
     return 0;
 }
