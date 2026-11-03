@@ -10,6 +10,8 @@ int main()
     cout << "Введите два числа: ";
     cin >> a >> b;
     int sum = a + b;
+    int mult = a * b;
     cout << "Сумма = " << sum << endl;
+    cout << "Произведение = " << mult << endl;
     return 0;
 }
