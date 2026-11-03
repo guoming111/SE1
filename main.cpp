@@ -11,14 +11,11 @@ int main()
     cin >> a >> b;
     int sum = a + b;
     int mult = a * b;
-<<<<<<< HEAD
     cout << "Произведение чисел = " << mult << endl;
     cout << "Сумма = " << sum << endl;
-=======
     double div = (double)a / b;
     cout << "Сумма = " << sum << endl;
     cout << "Произведение = " << mult << endl;
     cout << "Частное от деления = " << div << endl;
->>>>>>> division
     return 0;
 }
